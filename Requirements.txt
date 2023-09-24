@@ -1,5 +1,5 @@
 streamlit
 pycaret
-matplotlib
-seaborn
-numpy
+import cv2
+from deepface import DeepFace
+opencv-contrib-python-headless deepface
