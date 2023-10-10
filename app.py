@@ -1,5 +1,5 @@
 import streamlit as st
-import DeepFace
+import deepface
 import cv2
 import numpy as np
 st.markdown(f'''
